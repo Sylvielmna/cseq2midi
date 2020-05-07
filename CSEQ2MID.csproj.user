@@ -1,0 +1,5 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartArguments>"C:\Scott's Libraries\Work\Scott Jodoin (SJ)\0036_CrashBandicootPSF\CSEQ\new\29 - Hot Air Skyway.cseq"</StartArguments>
+  </PropertyGroup>
+</Project>
